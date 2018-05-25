@@ -1,0 +1,52 @@
+#red-box {
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 500px;
+}
+
+#purple-box {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 600px;
+    bottom: 300px;
+}
+
+#yellow-box {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left:600px;
+    bottom: 500px;
+}
+
+#blue-box {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 500px;
+    bottom: 10px;
+    }
+
+#green-box {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 600px;
+    bottom: 300px;
+}
+
+#black-box {
+    background-color: black;
+    width: 110px;
+    height:110px;
+    position: relative;
+    left:500px;
+    bottom: 610px;
+}
